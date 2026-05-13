@@ -1,3 +1,4 @@
+-- Used MySQL for initial data cleaning and joining tables together on a single column name.
 select distinct
 right(t.transaction_id,5) as transaction_id,
 trim(t.product_id) as product_id,sale_date,
