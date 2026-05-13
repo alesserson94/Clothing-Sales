@@ -1,0 +1,22 @@
+product_id,product_name,category,base_price,brand,is_active
+P001,Classic Crew-Neck Tee  ,TOPS,19.99,GAP,0
+P002,Slim Chino Pants,Bottoms,59.95,GAP,1
+P003,Puffer Jacket,outerwear,129.0,GAP,True
+P004,Canvas Sneakers,Footwear,$49.95,Old Navy,0
+P005,Leather Belt,Accessories,34.99,Banana Republic,0
+P006,Floral Midi Dress,dresses,79.95,Banana Republic,FALSE
+P007,Running Leggings,Activewear,64.95,Athleta,1
+P008,Denim Jacket,Outerwear,89.95,GAP,TRUE
+P009,Wool Sweater,Tops,$74.95,Banana Republic,0
+P010,High-Rise Jeans,Bottoms,69.95,GAP,0
+P011,Trench Coat,Outerwear,$198.0,Banana Republic,False
+P012,Ankle Boots  ,Footwear,119.0,Banana Republic,False
+P013,Silk Scarf,ACCESSORIES,44.95,Intermix,No
+P014,Wrap Dress  ,Dresses,89.95,Intermix,Yes
+P015,Sports Bra,ACTIVEWEAR,44.95,Athleta,True
+P016,Graphic Hoodie,Tops,49.95,Old Navy,0
+P017,Cargo Shorts,bottoms,39.95,Old Navy,1
+P018,Rain Jacket,Outerwear,85.0,Old Navy,1
+P019,Slip-On Loafers,footwear,79.95,GAP,Yes
+P020,Crossbody Bag,accessories,59.95,Banana Republic,Yes
+P003,puffer jacket,outerwear,129.0,GAP,True
