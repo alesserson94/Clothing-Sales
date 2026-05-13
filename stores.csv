@@ -1,0 +1,9 @@
+store_id,store_name,city,state,region,sq_footage,phone,open_date
+S001,New York - 5th Ave,New York,NY,Northeast,8880,(274) 729-6694,2010-03-15
+S002,Los Angeles - Beverly,Los Angeles,Ca,West,11936 sqft,289.747.4859,2008-07-22
+S003,Chicago - Mag Mile,Chicago,IL,Midwest,7170,6167347853,2015-11-01
+S004,Houston - Galleria,Houston,TX,South,5750,6980445092,2019-05-30
+S005,Miami - Lincoln Rd,Miami,Florida,Southeast,5937,(226) 270-6648,09/14/2012
+S006,Seattle - Pike St,Seattle,wa,West,12759,(781) 308-8983,02/28/2017
+S007,Boston - Newbury,Boston,Massachusetts,Northeast,12861,941.856.3027,2011-06-10
+S008,Atlanta - Lenox,Atlanta,GA,,4752,861.995.3056,01/05/2020
